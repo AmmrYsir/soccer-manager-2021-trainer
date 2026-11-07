@@ -1,0 +1,17 @@
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\analyzer.exe
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\analyzer.deps.json
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\analyzer.runtimeconfig.json
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\analyzer.dll
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\analyzer.pdb
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\bin\Debug\net9.0\ICSharpCode.Decompiler.dll
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.csproj.AssemblyReference.cache
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.AssemblyInfoInputs.cache
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.AssemblyInfo.cs
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.csproj.Up2Date
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.dll
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\refint\analyzer.dll
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.pdb
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\analyzer.genruntimeconfig.cache
+C:\Users\ammar\Desktop\Docs\soccer-manager-2021-trainer\analyzer\obj\Debug\net9.0\ref\analyzer.dll

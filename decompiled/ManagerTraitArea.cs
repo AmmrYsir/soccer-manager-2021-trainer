@@ -1,0 +1,26 @@
+public enum ManagerTraitArea
+{
+	StadiumFacilitiesCost,
+	SponsorshipTicketPrice,
+	PlayerWages,
+	StartingBalance,
+	TransferSigning,
+	SetPieceRating,
+	PreMatchBoost,
+	CohesionIncrease,
+	IncreaseFitnessAfterMatch,
+	MatchEngineSubRating,
+	TrainingSlot,
+	TrainingDiscount,
+	TrainingInjury,
+	TrainingPlayerCap,
+	YouthTraining,
+	Scouting,
+	Media,
+	PlayerStats,
+	PlayerMorale,
+	CauseForConcern,
+	MatchTactics,
+	NewPlayerPosition,
+	YouthPlayersStats
+}
